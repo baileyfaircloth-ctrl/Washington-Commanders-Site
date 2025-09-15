@@ -1,0 +1,53 @@
+    # Washington-Commanders-Site
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Washington Commanders</title>
+</head>
+<body>
+  <!-- Page Header -->
+  <header>
+    <h1>Washington Commanders</h1>
+    <h2>Wathcing Football</h2>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section>
+      <h3>Why I Like Watching Football </h3>
+      <p>Watching football on sundays is a day you take to sit back and get some rest before the long weekahead and enjoy watching all the games.</p>
+      <p>There are 15 different games that you can watch and they are all differnt nothing the same happens in every game.</p>
+    </section>
+
+    <!-- Lists -->
+    <section>
+      <h3>MY Three favorite teams to watch</h3>
+      <ul>
+        <li>Washington Commanders</li>
+        <li>Los Angeles Chargers</li>
+        <li>Baltimore Ravens</li>
+      </ul>
+
+      <h3>Necessities</h3>
+      <ol>
+        <li>Chicken Wings</li>
+        <li>Drinks</li>
+        <li>Sunday Ticket</li>
+      </ol>
+    </section>
+
+    <!-- Image -->
+    <section>
+      <h3>Sunday ticket snapshot</h3>
+      <img src="images/TV.jpg" alt="Four Squares With Football Games In Each" width="400">
+    </section>
+  </main>
+
+  <!-- Footer with internal link -->
+  <footer>
+    <p><a href="page2.html">Read more on Page 2</a></p>
+  </footer>
+</body>
+</html>
