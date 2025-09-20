@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="css/style.css">
+<h2 class="highlight">Welcome to My Page</h2>
+<p class="highlight">This paragraph shares the same class styling.</p>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>This section has its own unique ID styling.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email me at example@example.com</p>
+</section>
