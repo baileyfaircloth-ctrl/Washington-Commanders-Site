@@ -1,1 +1,50 @@
 style.css
+/* Page background */
+body {
+  background-color: #f0f8ff; /* light blue */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  text-align: center;
+  color: #333;
+}
+
+/* Paragraphs */
+p {
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.5;
+}
+/* Class selector */
+.highlight {
+  color: darkblue;
+  background-color: lightyellow;
+  padding: 5px;
+}
+
+/* ID selectors */
+#about {
+  background-color: #e0ffe0; /* light green */
+  padding: 15px;
+}
+
+#contact {
+  background-color: #ffe0e0; /* light red */
+  padding: 15px;
+}
+.flex-container {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  padding: 20px;
+}
+.flex-container section {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
