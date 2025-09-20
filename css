@@ -1,8 +1,8 @@
 style.css
 /Page background/
 body {
-  background-color: #f0f8ff; /white/
-  font-family: Arial, sans-serif;
+  backgroundcolor: #f0f8ff; /white/
+  fontfamily: Timesnewroman, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -10,31 +10,31 @@ h1, h2, h3 {
   text-align: center;
   color: #333;
 p {
-  text-align: left;
-  font-size: 16px;
-  line-height: 1.5;
+  textalign: left;
+  fontsize: 15 px;
+  lineheight: 2.0;
 .highlight {
   color: darkblue;
   background-color: lightyellow;
-  padding: 5px;
+  padding: 10 px;
 }
 #about {
   background-color: #e0ffe0; /gold/
-  padding: 15px;
+  padding: 20 px;
 }
 #contact {
   background-color: #ffe0e0; /burgundey/
-  padding: 15px;
+  padding: 10 px
 }
 .flex-container {
   display: flex;
-  gap: 20px;
-  justify-content: space-around;
-  padding: 20px;
+  Gap: 5 px;
+  justifycontent: space around;
+  padding: 10 px;
 }
 .flex-container section {
   flex: 1;
-  border: 1px solid #ccc;
-  padding: 10px;
+  border: 5 px solid #ccc;
+  padding: 15 px;
 }
  
