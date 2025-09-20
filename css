@@ -1,39 +1,29 @@
 style.css
-/* Page background */
+/Page background/
 body {
-  background-color: #f0f8ff; /* light blue */
+  background-color: #f0f8ff; /white/
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
-
-/* Headings */
 h1, h2, h3 {
   text-align: center;
   color: #333;
-}
-
-/* Paragraphs */
 p {
   text-align: left;
   font-size: 16px;
   line-height: 1.5;
-}
-/* Class selector */
 .highlight {
   color: darkblue;
   background-color: lightyellow;
   padding: 5px;
 }
-
-/* ID selectors */
 #about {
-  background-color: #e0ffe0; /* light green */
+  background-color: #e0ffe0; /gold/
   padding: 15px;
 }
-
 #contact {
-  background-color: #ffe0e0; /* light red */
+  background-color: #ffe0e0; /burgundey/
   padding: 15px;
 }
 .flex-container {
@@ -47,4 +37,4 @@ p {
   border: 1px solid #ccc;
   padding: 10px;
 }
-
+ 
