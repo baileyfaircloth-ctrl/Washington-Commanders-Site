@@ -34,7 +34,24 @@ p {
 }
 .flex-container section {
   flex: 1;
-  border: 5 px solid #ccc;
-  padding: 15 px;
+  border:  5 px solid #ccc;
+  padding: 10 px;
 }
- 
+
+media (max-width: 750px) {
+  body {
+    fontSize: 15px;
+    padding: 10px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  img {
+    max-width: 85%;
+    height: auto;
+  }
+}
+
