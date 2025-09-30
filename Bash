@@ -1,0 +1,5 @@
+git add.
+git commit -m "Connected Bootstrap via CDN"
+git commit -m "Applied Bootstrap grid layout and button styles"
+git commit -m "Refactored CSS to remove redundant flexbox"
+git push
