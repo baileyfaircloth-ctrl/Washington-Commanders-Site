@@ -53,5 +53,19 @@ media (max-width: 750px) {
     max-width: 85%;
     height: auto;
   }
+/* .row {
+  display: flex;
+  justify-content: space-between;
+} */
+h1 {
+  font-family: 'Georgia', serif;
+  color: #3a2e8c;
 }
+
+.custom-banner {
+  background: linear-gradient(90deg, #f06, #9f6);
+  padding: 40px;
+  border-radius: 12px;
+}
+
 
