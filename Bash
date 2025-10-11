@@ -3,3 +3,7 @@ git commit -m  Connected Bootstrap via CDN
 git commit -m Applly Bootstrap to grid layout and to the button styles
 git commit -m Refactor CSS and remove redundant flexbox
 git push
+
+git add .
+git commit -m "Polish updates: improved responsiveness and accessibility"
+git push
